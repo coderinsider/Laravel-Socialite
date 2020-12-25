@@ -37,3 +37,10 @@ In this video, we are going to take a loot at ...
 
 
 ![Image of Yaktocat](oauth.png)
+
+
+# Logging in existing users and creating new ones
+In this video, we are going to take a look at ...
+* Create routes to manage our social login steps
+* Redirect users back to the application after the user has granted access
+* After the login process is complete (and we have an access token) we will either log any existing  user in, or create a new account if it's a new user
