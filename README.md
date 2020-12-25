@@ -44,3 +44,12 @@ In this Section, we are going to take a look at ...
 * Create routes to manage our social login steps
 * Redirect users back to the application after the user has granted access
 * After the login process is complete (and we have an access token) we will either log any existing  user in, or create a new account if it's a new user
+
+
+# Building the findOrCreateUser method
+In this section, we are going to take a loot at ....
+* Building out the FindOrCreateUser helper method
+* See if this social account has logged in before
+* if they have, the log that user in agin
+* If that user has not logged in with social account before, then we want to check to see if they have an account with matching information (email) and the log them in with that account and attach this as a new social account for them
+* If no user record can be found and no social account record, then we will create new records for each and log the new user in
