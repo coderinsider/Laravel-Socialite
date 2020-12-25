@@ -23,3 +23,8 @@ OAuth is the protocol that most social network use to authenticate users form ot
 * Can maintain different session lengths to the normal user
 * Customizable access premissions
 * User (or Service) can revoke access at anytime to our app
+
+The Goal of OAuth flow
+* Access_token is a randomly generated token that belongs only to our app and represents a user
+* Our app will use this token for future requests where we want to interact with the service on behalf of this user
+* This token is passed to the service which will then be used in place of the user's username and password
