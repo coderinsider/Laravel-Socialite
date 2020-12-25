@@ -30,7 +30,7 @@ The Goal of OAuth flow
 * This token is passed to the service which will then be used in place of the user's username and password
 
 # Socialite controller and model setup
-In this video, we are going to take a loot at ...
+In this Section, we are going to take a loot at ...
 * Create a controller to manage our social networks
 * Create a model to manage our social networks
 * Setup a database relationship one-to-many to allow multiple social networks per account
@@ -40,7 +40,7 @@ In this video, we are going to take a loot at ...
 
 
 # Logging in existing users and creating new ones
-In this video, we are going to take a look at ...
+In this Section, we are going to take a look at ...
 * Create routes to manage our social login steps
 * Redirect users back to the application after the user has granted access
 * After the login process is complete (and we have an access token) we will either log any existing  user in, or create a new account if it's a new user
