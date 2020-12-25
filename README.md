@@ -36,4 +36,4 @@ In this video, we are going to take a loot at ...
 * Setup a database relationship one-to-many to allow multiple social networks per account
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](oauth.png)
