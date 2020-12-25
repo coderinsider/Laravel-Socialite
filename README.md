@@ -28,3 +28,12 @@ The Goal of OAuth flow
 * Access_token is a randomly generated token that belongs only to our app and represents a user
 * Our app will use this token for future requests where we want to interact with the service on behalf of this user
 * This token is passed to the service which will then be used in place of the user's username and password
+
+# Socialite controller and model setup
+In this video, we are going to take a loot at ...
+* Create a controller to manage our social networks
+* Create a model to manage our social networks
+* Setup a database relationship one-to-many to allow multiple social networks per account
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
