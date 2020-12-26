@@ -58,3 +58,13 @@ In this section, we are going to take a loot at ....
 Create a Facebook app
 * We must pre-register an app before we send users to Facebook for social sign-in
 * Go the Facebook App [Here](https://developers.facebook.com/apps)
+
+
+# Set up Twitter Sign-on
+In this chapter, we are going to take our project
+* Create new app in Twitter for our project
+* Get the Consumer_key and Consumer_secret fields and set them in Laravel
+* Create "Login with Twitter" buttons on our login and register pages
+* Test the Twitter login functionality
+* We must pre-register an app before we send users to Twitter for social sign-on
+* Go the Twitter [Here](https://apps.twitter.com)
