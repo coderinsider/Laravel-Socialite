@@ -53,3 +53,8 @@ In this section, we are going to take a loot at ....
 * if they have, the log that user in agin
 * If that user has not logged in with social account before, then we want to check to see if they have an account with matching information (email) and the log them in with that account and attach this as a new social account for them
 * If no user record can be found and no social account record, then we will create new records for each and log the new user in
+
+# Set up facebook sign-on
+Create a Facebook app
+* We must pre-register an app before we send users to Facebook for social sign-in
+* Go the Facebook App [Here](https://developers.facebook.com/apps)
